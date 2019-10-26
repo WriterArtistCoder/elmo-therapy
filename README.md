@@ -1,9 +1,7 @@
 # Elmo Therapy
-This Twitter bot replies to mentions of it containing emojis with relevant Elmo GIFs! [@GimmeElmo](https://twitter.com/GimmeElmo) In the future, I might expand to other TV shows and movies. **I do not own the right to the Elmo character. This is a parody.**
-## Versioning
-[![CalVer YYYY.0M.0D versioning scheme](https://img.shields.io/badge/calver-YYYY.0M.0D-22bfda.svg "CalVer YYYY.0M.0D versioning scheme")](http://calver.org)
+[![I use the CalVer (http://calver.org) full-year zero-padded-month zero-padded-day versioning scheme.](https://img.shields.io/badge/calver-YYYY.0M.0D-22bfda.svg "I use the CalVer (http://calver.org) YYYY.0M.0D versioning scheme.")](http://calver.org)
 
-I use the [CalVer](http://calver.org) YYYY.0M.0D versioning scheme.
+This Twitter bot replies to mentions of it containing emojis with relevant Elmo GIFs! [@GimmeElmo](https://twitter.com/GimmeElmo) In the future, I might expand to other TV shows and movies. **I do not own the right to the Elmo character. This is a parody.**
 ## Dependencies
 Twitter4J license:
 > Copyright 2007 Yusuke Yamamoto
