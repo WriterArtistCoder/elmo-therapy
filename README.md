@@ -1,9 +1,9 @@
 # Elmo Therapy
-This Twitter bot replies to mentions of it containing emotion words (sad, happy, angry, bored) with relevant Elmo GIFs! [@GimmeElmo](https://twitter.com/GimmeElmo) In the future, I might expand to other TV shows and movies. **I do not own the right to the Elmo character. This is a parody.**
+This Twitter bot replies to mentions of it containing emojis with relevant Elmo GIFs! [@GimmeElmo](https://twitter.com/GimmeElmo) In the future, I might expand to other TV shows and movies. **I do not own the right to the Elmo character. This is a parody.**
 ## Versioning
-![CalVer YYYY.0M.0D.MODIFIER versioning scheme](https://img.shields.io/badge/calver-YYYY.0M.0D.MODIFIER-22bfda.svg "CalVer YYYY.0M.0D.MODIFIER versioning scheme")
+[![CalVer YYYY.0M.0D versioning scheme](https://img.shields.io/badge/calver-YYYY.0M.0D-22bfda.svg "CalVer YYYY.0M.0D versioning scheme")](http://calver.org)
 
-I use the [CalVer](http://calver.org) YYYY.0M.0D-MODIFIER versioning scheme.
+I use the [CalVer](http://calver.org) YYYY.0M.0D versioning scheme.
 ## Dependencies
 Twitter4J license:
 > Copyright 2007 Yusuke Yamamoto
@@ -20,7 +20,7 @@ Twitter4J license:
 > See the License for the specific language governing permissions and
 > limitations under the License.
 
-([Full license text](FULL-LICENSE-TEXT-OF-DEPENDENCIES.txt))
+([Full license text](LICENSE-OF-DEPENDENCIES.txt))
 
 Google GSON license:
 > Copyright 2008 Google Inc.
@@ -37,4 +37,4 @@ Google GSON license:
 > See the License for the specific language governing permissions and
 > limitations under the License.
 
-([Full license text](FULL-LICENSE-TEXT-OF-DEPENDENCIES.txt))
+([Full license text](LICENSE-OF-DEPENDENCIES.txt))
