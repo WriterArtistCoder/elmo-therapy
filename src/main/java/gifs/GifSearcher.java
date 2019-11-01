@@ -1,3 +1,4 @@
+package gifs;
 
 /**
  * Parses tweet for emojis and calculates the correct GIF(s).
