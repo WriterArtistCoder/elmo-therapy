@@ -15,4 +15,8 @@ public class GifSearcher {
 		this.tweet = tweet;
 	}
 	
+	public void parse() {
+		
+	}
+	
 }
