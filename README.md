@@ -1,9 +1,8 @@
 # Elmo Therapy
+[![I use the CalVer (https://calver.org) full-year zero-padded-month zero-padded-day versioning scheme.](https://img.shields.io/badge/calver-YYYY.0M.0D-22bfda.svg "I use the CalVer (http://calver.org) YYYY.0M.0D versioning scheme.")](https://calver.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 This Twitter bot replies to mentions of it containing emojis with relevant Elmo GIFs! [@GimmeElmo](https://twitter.com/GimmeElmo) In the future, I might expand to other TV shows and movies, and maybe other social media platforms. **I do not own the right to the Elmo character. This is a parody.**
-
-[![I use the CalVer (http://calver.org) full-year zero-padded-month zero-padded-day versioning scheme.](https://img.shields.io/badge/calver-YYYY.0M.0D-22bfda.svg "I use the CalVer (http://calver.org) YYYY.0M.0D versioning scheme.")](http://calver.org)
-
-I use the [CalVer](http://calver.org) **YYYY.0M.0D versioning** scheme.
 
 The `<version>` tag in Maven is set to the latest released version, or the date when the initial commit was made.
 ## Dependencies
